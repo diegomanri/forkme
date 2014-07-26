@@ -1,10 +1,1 @@
-forkme
-======
-
-Aaron
-This 
-is a
-pointless message!
-I like Programming :D
-=======
-Diego
+This is a test readme.
